@@ -39,6 +39,10 @@ The project employs several machine learning models and techniques for sales pre
 - Hyperparameter Tuning
 
 These models and techniques enable the project to make accurate sales predictions based on the available data.
+![image](https://github.com/Shubhu1111/Retail-Sales-Prediction-Regression/assets/125637046/40164548-d7b3-49f4-bf3e-2533548f7e7d)
+![image](https://github.com/Shubhu1111/Retail-Sales-Prediction-Regression/assets/125637046/3eff20c7-63ea-4c30-8e0b-17238fc40e97)
+![image](https://github.com/Shubhu1111/Retail-Sales-Prediction-Regression/assets/125637046/12b892aa-ad8e-49ce-90b6-b70c5b6793f3)
+
 
 ## Conclusion
 
